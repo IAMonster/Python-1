@@ -47,4 +47,10 @@ In the scripts the comments etc are lined up correctly when they are viewed in [
 
 - `get_youtube_view.py` - This is very simple python script to get more views for your youtube videos.Some times I use for repeating my favorite songs by this scripts.
 - `CountMillionCharacter.py` - This Script will,counting character script, count how much character present *any text based file.
+<<<<<<< HEAD
 asdasidnalksd
+=======
+nothing
+
+热阿拉里萨
+>>>>>>> origin/master
